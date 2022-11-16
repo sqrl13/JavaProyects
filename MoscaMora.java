@@ -1,8 +1,4 @@
 /**Nahikari Guereta Calleja*/
-/** Fecha: 26 de septiembre de 2022*/ 
-/** Grado superior de desarrollo de aplicaciones multiplataforma
-Programación, Unidad 1*/ 
-/** Tarea Evaluación 01. Realiza un programa en Java */
 
 package principal;
 public class MoscaMora {   /**Llamamos Mosca Mora a nuestro programa*/
